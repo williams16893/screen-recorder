@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-width:0;stroke-linecap:round;}
+	.st2{fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;}
+</style>
+<rect class="st0" width="46" height="46"/>
+<circle class="st1" cx="23" cy="23" r="18.4"/>
+<circle class="st2" cx="23" cy="23" r="18.4">
+<animate  accumulate="none" additive="replace" attributeName="stroke-dashoffset" calcMode="linear" dur="1.9s" fill="remove" from="0" repeatCount="indefinite" restart="always" to="502">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="stroke-dasharray" calcMode="linear" dur="1.9s" fill="remove" repeatCount="indefinite" restart="always" values="150.6 100.4;1 250;150.6 100.4">
+	</animate>
+</circle>
+</svg>

@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Sep 2023 01:28:22 at https://www.freescreenrecording.com/#features +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.freescreenrecording.com/#features
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.freescreenrecording.com/#features -%L https://www.freescreenrecording.com/#features -O1 "C:\My Web Sites\FREE CAM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.freescreenrecording.com/#features )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:28:22	Error: 	Could not include URL list: https://www.freescreenrecording.com/#features
+01:28:30	Warning: 	Note: due to https://www.freescreenrecording.com remote robots.txt rules, links beginning with these path will be forbidden: /~rewrite/, /~svn/, /~db/, /captcha/, /classes/, /data/, /includes/, /logs/, /resources/, /download/*.msi, /download/samples/ (see in the options to disable this)
+01:28:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+01:28:46	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/features (from primary/primary)
+01:28:59	Error: 	"Not Found" (404) at link https://www.freescreenrecording.com/legal/terms_of_use (from https://www.freescreenrecording.com/)
+01:28:59	Error: 	"Not Found" (404) at link https://www.freescreenrecording.com/company/policy/privacy (from https://www.freescreenrecording.com/)
+01:28:59	Error: 	"Not Found" (404) at link https://www.freescreenrecording.com/legal/cookie_policy (from https://www.freescreenrecording.com/)
+01:28:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/features (from primary/primary)
+01:29:00	Error: 	"Not Found" (404) at link https://www.freescreenrecording.com/ispring_bitrix/content/images/gradient/scroll-product-menu.png (from https://www.freescreenrecording.com/datacache/css/63373a448ce1238bd495d3ea4cb8c2c9_20200129132218.css)
+01:29:01	Error: 	"Not Found" (404) at link https://www.freescreenrecording.com/images/icons/close-btn.svg (from https://www.freescreenrecording.com/datacache/css/63373a448ce1238bd495d3ea4cb8c2c9_20200129132218.css)
+01:29:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/features (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 50 links scanned, 40 files written (2345762 bytes overall) [2213338 bytes received at 56752 bytes/sec], 251920 bytes transferred using HTTP compression in 12 files, ratio 25%, 11.5 requests per connection
+(8 errors, 3 warnings, 0 messages)
